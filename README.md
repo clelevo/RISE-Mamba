@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h2> Real-Time Infrared Denoising Mamba with Progressive Self Distillation  </h2> 
+<h2> RTDM: Real-Time Denoising Mamba with Progressive  </h2> 
 
 Yuchen Bai, Mingxin Yu, Weiqiang Chen, Lidan Lu, Xiaoping Lou, Yanlin He, Mingli Dong,
 Lianqing Zhu 
